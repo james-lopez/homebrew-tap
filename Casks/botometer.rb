@@ -1,6 +1,6 @@
 cask "botometer" do
-  version "1.0.0"
-  sha256 "2086c46771229028f1dac70834f30d7b844bb9b85f487c1741d290766b5b44ed"
+  version "1.0.1"
+  sha256 "bde48fb331195ac9cc46f69de12974a1b0eb1b558184c5ea16df8076c5140df7"
 
   url "https://github.com/james-lopez/botometer/releases/download/v#{version}/botometer.zip"
   name "Bot-o-Meter"
